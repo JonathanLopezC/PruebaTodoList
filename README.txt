@@ -4,7 +4,7 @@
 - Reacj.js
 - MySQL 
 ## Configuración del Backend
-1. Clonar el repositorio y navegar a /TareasApi.
+1. Clonar el repositorio rama: Master y navegar a /TareasApi.
 2. Configurar la cadena de conexión en appsettings.json.
 3. Ejecutar las migraciones de Entity Framework Core.
     - dotnet migrations InitialCreate
